@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "serverless-offline": "^3.20.1"
+  },
+  "dependencies": {
+    "@jimdo/serverless-dotenv": "^1.0.0"
   }
 }
