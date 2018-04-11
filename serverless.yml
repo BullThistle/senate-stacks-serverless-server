@@ -12,6 +12,7 @@ provider:
 functions:
   legislators:
     handler: handler.legislators
+    events:
       - http:
           path: state/{state}
           method: get
