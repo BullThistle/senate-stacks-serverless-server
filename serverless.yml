@@ -1,7 +1,6 @@
 service: senate-stacks
 plugins:
   - serverless-offline
-  - '@jimdo/serverless-dotenv'
 
 provider:
   name: aws
