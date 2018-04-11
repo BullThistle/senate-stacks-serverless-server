@@ -10,9 +10,3 @@ provider:
   region: us-west-2
 
 functions:
-  hello:
-    handler: handler.hello
-    events:
-      - http:
-          path: users/create
-          method: get
