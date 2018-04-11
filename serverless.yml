@@ -1,4 +1,6 @@
 service: senate-stacks
+plugins:
+  - serverless-offline
 
 provider:
   name: aws
