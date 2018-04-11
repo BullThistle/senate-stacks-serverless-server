@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "@jimdo/serverless-dotenv": "^1.0.0",
-    "dotenv": "^5.0.1"
+    "dotenv": "^5.0.1",
+    "request": "^2.85.0"
   }
 }
