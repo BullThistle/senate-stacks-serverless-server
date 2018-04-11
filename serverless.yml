@@ -10,3 +10,8 @@ provider:
   region: us-west-2
 
 functions:
+  legislators:
+    handler: handler.legislators
+      - http:
+          path: state/{state}
+          method: get
