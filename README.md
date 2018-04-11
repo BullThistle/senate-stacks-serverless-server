@@ -8,9 +8,9 @@ _Serverless server for senatestacks.com_
 
 * Clone this repository
 * Install Serverless if you don't already have it
-```
-npm install -g serverless
-```
+  ```
+  npm install -g serverless
+  ```
 * Install required dependencies
   ```
   npm install
